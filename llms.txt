@@ -1,0 +1,24 @@
+# Muhamad Afriza - Portfolio
+
+> Android Developer dan Front-End Web Developer
+
+## About
+
+Muhamad Afriza adalah Android Developer dan Front-End Web Developer dengan fokus pada membangun aplikasi mobile dan web yang user-friendly dengan pengalaman pengguna yang optimal.
+
+## Skills
+
+- Android Development
+- Front-End Web Development
+- UI/UX Design
+- Mobile Application Development
+
+## Projects
+
+Kunjungi https://muhamadafriza.my.id untuk melihat portfolio lengkap dan proyek-proyek yang telah dikerjakan.
+
+## Contact
+
+- Website: https://muhamadafriza.my.id
+- GitHub: https://github.com/afrzxd
+- Email: rzxdeveloper@gmail.com
