@@ -1,24 +1,106 @@
 # Muhamad Afriza - Portfolio
 
-> Android Developer dan Front-End Web Developer
+> Android Developer dan Front-End Web Developer dari Bogor, Indonesia
 
 ## About
 
-Muhamad Afriza adalah Android Developer dan Front-End Web Developer dengan fokus pada membangun aplikasi mobile dan web yang user-friendly dengan pengalaman pengguna yang optimal.
+Halo, saya Muhamad Afriza. Seorang Front-End Web Developer dan Android Developer dari Bogor, Jawa Barat, Indonesia. Saya berfokus pada pengembangan aplikasi mobile dan website modern yang user-friendly dengan pengalaman pengguna yang optimal. Saya terbuka untuk peluang kerja full-time maupun proyek freelance di bidang web development dan mobile development.
 
 ## Skills
 
-- Android Development
-- Front-End Web Development
-- UI/UX Design
-- Mobile Application Development
+### Frontend & Mobile
+- React, Next.js, TypeScript, JavaScript
+- Flutter, Dart, Kotlin
+- Tailwind CSS, HTML5, CSS3
+
+
+### Database
+- MySQL, PostgreSQL, Firebase
+
+### Tools
+- Git, Docker, Figma, VS Code, Android Studio, Netbeans
+
+### Additional
+- Vue.js, Vite
 
 ## Projects
 
-Kunjungi https://muhamadafriza.my.id untuk melihat portfolio lengkap dan proyek-proyek yang telah dikerjakan.
+### Mari Kerja - SanberCode
+- Teknologi: React
+- Demo: https://marikerja-sanbercode-afriza.netlify.app/
+- Deskripsi: Website lowongan kerja yang menampilkan data dari REST API, dilengkapi fitur search, filter, dan sistem autentikasi berbasis token (register, login, logout).
+
+### Maulid Syarobut Thohur
+- Teknologi: Flutter, JSON
+- Demo: https://play.google.com/store/apps/details?id=com.afgadev.syarobutthohur&hl=id
+- Deskripsi: Aplikasi Android yang sudah dipublikasikan di Google Play Store dengan ribuan unduhan.
+
+### Maulid Addhiya Ulami
+- Teknologi: Flutter, Firebase
+- Demo: https://play.google.com/store/apps/details?id=com.afgadev.addhiyaulami&hl=id
+- Deskripsi: Aplikasi Android berbasis Flutter dengan Firebase, tersedia di Google Play Store.
+
+### Meal App - Submission Dicoding
+- Teknologi: Flutter
+- GitHub: https://github.com/afrzxd/meal-app
+- Deskripsi: Aplikasi Flutter dengan navigasi multi halaman, Stateless dan Stateful Widget, serta integrasi API eksternal.
+
+### WhoLang - Submission Dicoding
+- Teknologi: Kotlin
+- GitHub: https://github.com/afrzxd/Who-Lang
+- Deskripsi: Aplikasi Android berbasis Kotlin, menampilkan data list dan detail, fitur share konten dan email intent.
+
+## Experience
+
+### Software Developer - SMPIT Permata Hati
+- Periode: Oktober 2024 - Januari 2025
+- Tipe: Academic Project
+- Teknologi: Flutter, Android, Firebase
+- Deskripsi: Mengembangkan aplikasi absensi ibadah guru berbasis mobile menggunakan Flutter, mengintegrasikan Firebase untuk autentikasi dan penyimpanan data real-time, serta berkolaborasi dalam tim sesuai kebutuhan sekolah.
+
+### AFGADEV - Proyek Mandiri
+- Periode: Februari 2023 - Sekarang
+- Tipe: Freelance
+- Teknologi: Flutter, Android
+- Deskripsi: Mengembangkan dan mempublikasikan aplikasi mobile di Google Play Store (Afgadev). Membangun aplikasi Maulid Syarobut Thohur dan Maulid Addhiya Ulami dengan total ribuan unduhan. Mengelola rilis, update versi, dan maintenance melalui Play Console.
+
+### resspedia.com - Proyek Mandiri
+- Periode: Februari 2022 - April 2022
+- Tipe: Freelance
+- Deskripsi: Mengelola website PPOB untuk layanan pembayaran digital dan top up, integrasi API penyedia pihak ketiga, serta menangani transaksi dan operasional dasar website.
+
+## Education
+
+### S1 Teknik Informatika
+- Institusi: Universitas Indraprasta PGRI
+- Periode: 2021 - 2025
+- Fokus: Software Engineering dan Web Development
+
+## Certifications
+
+### Bootcamp React JS - Web Frontend Development
+- Penerbit: SanberCode
+- Tahun: 2026
+- Teknologi: React, TypeScript, Next.js, TailwindCSS
+- Link: https://sanbercode.com/certificate/in/60ec19ae-20a6-4d2f-9c5f-44c7775e4405
+
+### Belajar Membuat Aplikasi Flutter untuk Pemula
+- Penerbit: Dicoding Indonesia
+- Tahun: 2023
+- Teknologi: Flutter, Dart
+- Link: https://www.dicoding.com/certificates/81P2VG30QPOY
+
+### Belajar Membuat Aplikasi Android untuk Pemula
+- Penerbit: Dicoding Indonesia
+- Tahun: 2023
+- Teknologi: Kotlin
+- Link: https://www.dicoding.com/certificates/L4PQG487QZO1
 
 ## Contact
 
 - Website: https://muhamadafriza.my.id
 - GitHub: https://github.com/afrzxd
+- LinkedIn: https://linkedin.com/in/muhamad-afriza
+- Instagram: https://instagram.com/afrzxd
 - Email: rzxdeveloper@gmail.com
+- Google Play: https://play.google.com/store/apps/dev?id=7231469927124765006&hl=id
