@@ -1,0 +1,4 @@
+RewriteEngine On
+# Redirect WWW ke Non-WWW (Karena yang bisa diakses yang tanpa WWW)
+RewriteCond % {HTTP_HOST} ^www\.muhamadafriza\.my\.id [NC]
+RewriteRule ^(.*)$ https://muhamadafriza.my.id/$1 [L,R=301]
